@@ -10,7 +10,10 @@ Objectives:
 - Provide actionable insights to improve customer retention.
 
 Tools & Skills:
-Python | Pandas | SQLAlchemy | PyMySQL | Matplotlib | Seaborn | MySQL | Jupyter Notebook | Git & GitHub
+Languages: Python SQL
+Libraries: Pandas, Matplotlib, Seaborn, 
+Database: MySQL
+Environment: Jupyter Notebook
   
 Data Exploration:
 - Connected to MySQL database using SQLAlchemy and PyMySQL.
